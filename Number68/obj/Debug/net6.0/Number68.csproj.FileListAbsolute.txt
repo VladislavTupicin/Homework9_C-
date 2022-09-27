@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\ЗНАКОМСТОВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\Homework9_C#\Number68\obj\Debug\net6.0\Number68.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ЗНАКОМСТОВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\Homework9_C#\Number68\obj\Debug\net6.0\Number68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ЗНАКОМСТОВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\Homework9_C#\Number68\obj\Debug\net6.0\Number68.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ЗНАКОМСТОВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\Homework9_C#\Number68\obj\Debug\net6.0\Number68.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ЗНАКОМСТОВО С ЯЗЫКАМИ ПРОГРАМИРОВАНИЯ\Homework9_C#\Number68\obj\Debug\net6.0\Number68.csproj.CoreCompileInputs.cache
